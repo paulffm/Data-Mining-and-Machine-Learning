@@ -10,3 +10,7 @@
 - evaluation of different metrics
 ## Task 4:
 - classification and regression with decision trees
+## Task 5: 
+- classification of Random Forrest vs. Decision Trees with different # of depths, features and estimators (Hyperparametet study)
+## Task 6:
+- 
