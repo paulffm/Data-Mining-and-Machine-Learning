@@ -8,3 +8,5 @@
 ## Task 3:
 - pr curve, ROC curve, confusion matrix with Random Forrest Classifier
 - evaluation of different metrics
+## Task 4:
+- classification and regression with decision trees
