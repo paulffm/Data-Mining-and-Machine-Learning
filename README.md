@@ -11,6 +11,6 @@
 ## Task 4:
 - classification and regression with decision trees
 ## Task 5: 
-- classification of Random Forrest vs. Decision Trees with different # of depths, features and estimators (Hyperparametet study)
+- classification of Random Forrest vs. Decision Trees with different # of depths, features and estimators (Hyperparameter study)
 ## Task 6:
 - 
