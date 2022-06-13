@@ -21,4 +21,4 @@ all with scikit-learn or from scratch
 - SVM label classification parameter optimization with grid search
 - kmeans clustering
 ## Task 10
-- Principal Component Analysis for dimenion reduction, variance explaination, data compression, 
+- Principal Component Analysis for dimensional reduction, variance explaination, data compression, 
