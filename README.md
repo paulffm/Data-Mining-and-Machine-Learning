@@ -1,4 +1,4 @@
-# Data-Mining-and-Machine-Learning
+# Applications of Data-Mining-and-Machine-Learning
 all with scikit-learn or from scratch
 ## Task 1:
 - classification and regression with self defined boundary, accuracy and error
