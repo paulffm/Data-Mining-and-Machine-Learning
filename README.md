@@ -1,5 +1,9 @@
 # Applications of Data-Mining-and-Machine-Learning
 
+<p align="center">
+  <img src="rf.webp"  alt="rf" width="512px" height="384px">
+</p>
+
 ## Overview
 
 This project is part of the course "Applications of Data Mining and Machine Learning" offered by the Artificial Intelligence and Machine Learning Lab at TU Darmstadt. The repository includes applications of scikit-learn models as well as implementations of machine learning algorithms from scratch.
