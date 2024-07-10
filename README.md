@@ -1,7 +1,7 @@
 # Applications of Data-Mining-and-Machine-Learning
 
 <p align="center">
-  <img src="dt.png"  alt="rf" width="1130px" height="680px">
+  <img src="dt.png"  alt="rf" width="904px" height="544px">
 </p>
 
 ## Overview
